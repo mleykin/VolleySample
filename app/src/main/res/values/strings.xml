@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolleySample</string>
+    <string name ="butOk"> Get Data From Server </string>
+</resources>

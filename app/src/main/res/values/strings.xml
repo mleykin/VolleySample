@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">VolleySample</string>
-    <string name ="butOk"> Get Data From Server </string>
+    <string name ="butOk"> Add a new joke to the list </string>
+    <string name="textview">The list of extracted jokes will be displayed here</string>
 </resources>
